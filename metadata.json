@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý Sáng Kiến Kinh Nghiệm Giáo Dục (EduSKKN AI)",
+  "description": "Nền tảng chuẩn hóa cấu trúc, gợi ý ý tưởng sư phạm, xử lý số liệu thực nghiệm, kiểm duyệt tính mới và xuất bản Sáng kiến kinh nghiệm theo chuẩn Bộ Giáo dục & Đào tạo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
